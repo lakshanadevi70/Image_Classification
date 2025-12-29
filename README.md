@@ -11,11 +11,11 @@ This project builds an image classification model that can distinguish between i
   - Matplotlib (for visualization) 
 
 ## 📈 Key Steps
-✔️ Collect a dataset of images for Joker and Thanos
-✔️ Preprocess images (resize, normalize pixel values)
-✔️ Build and train a CNN model to learn features from images
-✔️ Evaluate model accuracy on a test set
-✔️ Use the model to classify new images as Joker or Thanos 
+-  Collect a dataset of images for Joker and Thanos
+-  Preprocess images (resize, normalize pixel values)
+-  Build and train a CNN model to learn features from images
+-  Evaluate model accuracy on a test set
+-  Use the model to classify new images as Joker or Thanos 
 
 ## 📂 Dataset
 A custom dataset containing labeled images of Joker and Thanos.
@@ -39,7 +39,7 @@ Learn how to handle image data, design and train a CNN model, and visually disti
 
 ## 🧠 Learning Outcome
 This project helps you understand:
-✔️ Image preprocessing
-✔️ Convolutional Neural Networks (CNN)
-✔️ Model training and evaluation
-✔️ Image classification in real-world scenarios with custom classes
+-  Image preprocessing
+-  Convolutional Neural Networks (CNN)
+-  Model training and evaluation
+-  Image classification in real-world scenarios with custom classes
