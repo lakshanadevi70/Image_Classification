@@ -20,13 +20,13 @@ This project builds an image classification model that can distinguish between i
 ## 📂 Dataset
 A custom dataset containing labeled images of Joker and Thanos.
 You can gather images manually or from online sources and organize them into train/test folders like:
- dataset/
-     ├── train/
-     │   ├── Joker/
-     │   └── Thanos/
-     └── test/
-         ├── Joker/
-         └── Thanos/
+  - dataset/
+    -  ├── train/
+    -  │   ├── Joker/
+    -  │   └── Thanos/
+    -  └── test/
+    -     ├── Joker/
+    -     └── Thanos/
 
 ## 🎯 Goal
 Learn how to handle image data, design and train a CNN model, and visually distinguish characters using image classification techniques. 
